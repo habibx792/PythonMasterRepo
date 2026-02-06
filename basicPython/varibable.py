@@ -13,3 +13,5 @@ if isinstance(name, str):
     print("Print string")
 greeting ='Hello World'
 print(greeting)
+age +=30
+print(age)
