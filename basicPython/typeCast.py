@@ -28,3 +28,14 @@ print(ch)
 print(name[3:9])
 print(name.startswith("a"))
 print(name.startswith("l"))
+price=int(300)
+print(price)
+
+compNumber=5+4j
+print(compNumber)
+print(compNumber.real)
+print(compNumber.imag)
+
+gpa=-323.3323
+print(abs(gpa))
+print(abs(round(gpa,1)))
