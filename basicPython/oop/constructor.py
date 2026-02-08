@@ -7,3 +7,5 @@ class Car:
         print(this.age)
 c=Car("Honda Cive",12)
 c.print()
+c2=Car("Honda Cive",12)
+c2.print()
